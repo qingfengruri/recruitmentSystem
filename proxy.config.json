@@ -1,0 +1,5 @@
+{
+  "recruitmentSystem/Api": {
+    "target": "http://47.95.214.47:8088"
+  }
+}
